@@ -1,0 +1,40 @@
+ @font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./NanumBarunGothic.eot');
+    src: url('./NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
+         url('./NanumBarunGothic.woff') format('woff'),
+	url('./NanumBarunGothic.svg#NanumBarunGothic') format('svg'),
+        url('./NanumBarunGothic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NanumBarunGothicBold';
+    font-weight: 700;
+    font-style: normal;
+    src: url('./NanumBarunGothicBold.eot');
+    src: url('./NanumBarunGothicBold.eot?#iefix') format('embedded-opentype'),
+         url('./NanumBarunGothicBold.woff') format('woff'),
+         url('./NanumBarunGothicBold.svg#NanumBarunGothicBold') format('svg'),
+         url('./NanumBarunGothicBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BM JUA';
+	font-weight: normal;
+	font-style: normal;
+	src: url('./BM-JUA.eot');
+	src: url('./BM-JUA.eot?#iefix') format('embedded-opentype'),
+		url('./BM-JUA.woff') format('woff'),
+		url('./BM-JUA.svg#BM-JUA') format('svg'),
+		url('./BM-JUA.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BM HANNA';
+	font-weight: normal;
+	font-style: normal;
+	src: url('./BM-HANNA.eot');
+	src: url('./BM-HANNA.eot?#iefix') format('embedded-opentype'),
+	        url('./BM-HANNA.woff') format('woff'),
+	        url('./BM-HANNA.svg#BM-HANNA') format('svg'),
+	        url('./BM-HANNA.ttf') format('truetype');
+}
