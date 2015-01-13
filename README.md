@@ -20,7 +20,7 @@
 
 웹사이트 HTML문서의 ``<head>``안에 아래 코드를 넣으면 된다.
 ```
-<link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3/webfonts.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/singihae/Webfonts/master/style.css' rel='stylesheet' type='text/css'>
 ```
 
 ##적용하기
