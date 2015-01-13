@@ -61,5 +61,4 @@ P.S 개인적으로 사용함을 위해서 만든만큽 업데이트가 느릴 �
 [nanum story]: http://static.campaign.naver.com/0/hangeul/2014/doc/nanum_story.pdf
 [license1]: http://www.woowahan.com/license.html?keepThis=true&TB_iframe=true&height=620&width=659&modal=true
 [license2]: http://www.woowahan.com/license-jua.html?keepThis=true&TB_iframe=true&height=620&width=659&modal=true
-[twitter]: https://twitter.com/websingi
 [issues]: https://github.com/singihae/Webfonts/issues
