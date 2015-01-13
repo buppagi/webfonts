@@ -51,7 +51,7 @@ HTML 문서에 적용
 </style>
 ```
 ##피드백
-[@websingi][twitter]로 해주시면 됩니다.
+[Issues][issues]로 해주시면 됩니다.
 
 P.S 개인적으로 사용함을 위해서 만든만큽 업데이트가 느릴 수 있고, 적용이 안될 수 있습니다.
 적용이 안될 시에는 피드백 부탁드립니다.
@@ -62,3 +62,4 @@ P.S 개인적으로 사용함을 위해서 만든만큽 업데이트가 느릴 �
 [license1]: http://www.woowahan.com/license.html?keepThis=true&TB_iframe=true&height=620&width=659&modal=true
 [license2]: http://www.woowahan.com/license-jua.html?keepThis=true&TB_iframe=true&height=620&width=659&modal=true
 [twitter]: https://twitter.com/websingi
+[issues]: https://github.com/singihae/Webfonts/issues
