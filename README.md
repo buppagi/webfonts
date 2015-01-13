@@ -47,8 +47,8 @@ font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif;
 HTML 문서에 적용
 ```
 <style type="text/css">
-.jua {font-family:'BM JUA','배달의민족 한나',sans-serif;}
-.hana{font-family:'BM HANNA','배달의민족 주아', sans-serif; }
+.jua {font-family:'BM JUA','배달의민족 주아',sans-serif;}
+.hana{font-family:'BM HANNA','배달의민족 한나', sans-serif; }
 </style>
 ```
 ##피드백
