@@ -1,40 +1,89 @@
  @font-face {
-    font-family: 'NanumBarunGothic';
-    font-weight: normal;
+    font-family:'NanumBarunGothic';
+    font-weight: 400;
     font-style: normal;
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.eot');
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.woff') format('woff'),
-	url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.svg#NanumBarunGothic') format('svg'),
-        url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothic.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.eot');
+    src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
+				 url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.woff') format('woff'),
+				 url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.svg#NanumBarunGothic') format('svg'),
+        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'NanumBarunGothicBold';
+    font-family:'NanumBarunGothic';
     font-weight: 700;
     font-style: normal;
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.eot');
-    src: url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.woff') format('woff'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.svg#NanumBarunGothicBold') format('svg'),
-         url('https://github.com/singihae/Webfonts/blob/master/NanumBarunGothicBold.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothicBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothicBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothicBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothicBold.svg#NanumBarunGothicBold') format('svg'),
+         url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothicBold.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'BM JUA';
-	font-weight: normal;
+	font-family:'BM JUA';
+	font-weight:normal;
 	font-style: normal;
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.eot');
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.eot?#iefix') format('embedded-opentype'),
-		url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.woff') format('woff'),
-		url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.svg#BM-JUA') format('svg'),
-		url('https://github.com/singihae/Webfonts/blob/master/BM-JUA.ttf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.eot');
+	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.eot?#iefix') format('embedded-opentype'),
+		url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.woff') format('woff'),
+		url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.svg#BM-JUA') format('svg'),
+		url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'BM HANNA';
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.eot');
-	src: url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.eot?#iefix') format('embedded-opentype'),
-	        url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.woff') format('woff'),
-	        url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.svg#BM-HANNA') format('svg'),
-	        url('https://github.com/singihae/Webfonts/blob/master/BM-HANNA.ttf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.eot');
+	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.eot?#iefix') format('embedded-opentype'),
+	        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.woff') format('woff'),
+	        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.svg#BM-HANNA') format('svg'),
+	        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: "NanumSquareRound";
+	font-style: normal;
+	font-weight: 300;
+	src: local("NanumSquareRoundL"), /* computer */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.eot"), /* IE9 Compat Modes */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.woff2") format("woff2"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.woff") format("woff"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+	font-family: "NanumSquareRound";
+	font-style: normal;
+	font-weight: 400;
+	src: local("NanumSquareRoundR"), /* computer */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.eot"), /* IE9 Compat Modes */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.woff2") format("woff2"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.woff") format("woff"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+	font-family: "NanumSquareRound";
+	font-style: normal;
+	font-weight: 700;
+	src: local("NanumSquareRoundB"), /* computer */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.eot"), /* IE9 Compat Modes */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.woff2") format("woff2"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.woff") format("woff"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+@font-face {
+	font-family: "NanumSquareRound";
+	font-style: normal;
+	font-weight: 800;
+	src: local("NanumSquareRoundEB"), /* computer */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.eot"), /* IE9 Compat Modes */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.woff2") format("woff2"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.woff") format("woff"), /* Modern Browsers */
+		url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.ttf") format("truetype"); /* Safari, Android, iOS */
 }
