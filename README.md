@@ -39,7 +39,7 @@ CSS파일 및 ``<head>``안의 스타일 시트에 아래 코드를 넣으면 �
 font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif;
 ```
 
-HTML문서에 적용
+## HTML문서에 적용
 ```html
 <style type="text/css">
 .jua { font-family:'BM JUA','배달의민족 주아',sans-serif; }
@@ -53,8 +53,12 @@ HTML문서에 적용
 
 ## 피드백
 [Issues][issues]로 해주시면 됩니다.
-무료폰트 나눔글꼴 모두 업로드 할 예정입니다.
+
+## 라이센스
+
+- 배달의민 족 [라이센스 보기](https://github.com/buppagi/LICENSE/WOOWAHANLICENSE)
+- 주아체 [라이센스 보기](https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497) {: target="_blank"}
 
 [nanum]: http://fonts.googleapis.com/earlyaccess/nanumgothic.css
 [nanum story]: http://static.campaign.naver.com/0/hangeul/2014/doc/nanum_story.pdf
-[issues]: https://github.com/singihae/Webfonts/issues
+[issues]: https://github.com/buppagi/webfonts/issues
