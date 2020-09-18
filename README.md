@@ -57,7 +57,8 @@ font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif;
 ## 라이센스
 
 - 배달의민 족 [라이센스 보기](https://github.com/buppagi/LICENSE/WOOWAHANLICENSE)
-- 주아체 [라이센스 보기](https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497){:target="_blank"}
+<!-- - 주아체 [라이센스 보기] -->
+- <https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497>{: target="_blank"}
 
 [nanum]: http://fonts.googleapis.com/earlyaccess/nanumgothic.css
 [nanum story]: http://static.campaign.naver.com/0/hangeul/2014/doc/nanum_story.pdf
