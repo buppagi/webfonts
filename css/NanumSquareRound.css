@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* 나눔스퀘어라운드 웹폰트 */
+@font-face {
+  font-family: "NanumSquareRound";
+  font-style: normal;
+  font-weight: 300;
+  src: local("NanumSquareRound"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.eot"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundL.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareRound";
+  font-style: normal;
+  font-weight: 400;
+  src: local("NanumSquareRound"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.eot"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundR.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareRound";
+  font-style: normal;
+  font-weight: 700;
+  src: local("NanumSquareRound"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.eot"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundB.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareRound";
+  font-style: normal;
+  font-weight: 800;
+  src: local("NanumSquareRound"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.eot"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumSquareRoundEB.ttf") format("truetype");
+}

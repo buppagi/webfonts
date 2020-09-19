@@ -1,0 +1,4 @@
+@import "font-face";
+/* 나눔바른고딕 웹폰트 */
+@include font-face('NanumBarunGothic', $path + 'NanumBarunGothic' , 400, normal, 'oldie');
+@include font-face('NanumBarunGothic', $path + 'NanumBarunGothic' , 700, normal, 'oldienotwf2');

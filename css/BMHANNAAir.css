@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* 배민한나체AIR 웹폰트 */
+@font-face {
+  font-family: "BMHANNAAir";
+  font-style: normal;
+  font-weight: normal;
+  src: local("BMHANNAAir"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAAir.eot"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAAir.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAAir.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAAir.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAAir.svg#BMHANNAAir") format("svg"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAAir.ttf") format("truetype");
+}

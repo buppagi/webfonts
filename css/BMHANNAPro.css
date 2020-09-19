@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* 배민한나체Pro 웹폰트 */
+@font-face {
+  font-family: "BMHANNAPro";
+  font-style: normal;
+  font-weight: normal;
+  src: local("BMHANNAPro"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.eot"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.svg#BMHANNAPro") format("svg"), url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.ttf") format("truetype");
+}

@@ -1,0 +1,6 @@
+@import "font-face";
+/* 나눔스퀘어라운드 웹폰트 */
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundL' , 300, normal, 'oldie');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundR' , 400, normal, 'oldie');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundB' , 700, normal, 'oldie');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundEB' , 800, normal, 'oldie');

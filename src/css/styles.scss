@@ -1,0 +1,16 @@
+@import "font-face";
+
+@import url('https://fonts.googleapis.com/earlyaccess/hanna.css');
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+
+@include font-face('BMHANNAPro', $path + 'BMHANNAPro' , normal, normal, 'fulloldie');
+@include font-face('NanumBarunGothic', $path + 'NanumBarunGothic' , 400, normal, 'oldie');
+@include font-face('NanumBarunGothic', $path + 'NanumBarunGothic' , 700, normal, 'oldienotwf2');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundL' , 300, normal, 'oldie');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundR' , 400, normal, 'oldie');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundB' , 700, normal, 'oldie');
+@include font-face('NanumSquareRound', $path + 'NanumSquareRoundEB' , 800, normal, 'oldie');
+@include font-face('BMHANNAAir', $path + 'BMHANNAAir' , normal, normal, 'fulloldie');
