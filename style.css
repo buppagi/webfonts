@@ -19,28 +19,6 @@
          url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothicBold.ttf') format('truetype');
 }
 @font-face {
-	font-family:'BM JUA';
-	font-weight:normal;
-	font-style: normal;
-	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.eot');
-	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.svg#BM-JUA') format('svg'),
-		url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-JUA.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'BM HANNA';
-	font-weight: normal;
-	font-style: normal;
-	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.eot');
-	src: url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.eot?#iefix') format('embedded-opentype'),
-	        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.woff') format('woff'),
-	        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.svg#BM-HANNA') format('svg'),
-	        url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BM-HANNA.ttf') format('truetype');
-}
-
-
-@font-face {
 	font-family: "NanumSquareRound";
 	font-style: normal;
 	font-weight: 300;
