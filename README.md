@@ -11,7 +11,7 @@
 ### 나눔바른고딕
 HTML 문서에 적용:
 ```html
-<link href="//fonts.googleapis.com/earlyaccess/NanumBarunGothic.min.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/NanumBarunGothic.min.css" rel="stylesheet" type="text/css" />
 ```
 CSS:
 ```css
@@ -21,7 +21,7 @@ CSS:
 ### 나눔스퀘어라운드
 HTML 적용
 ```html
-<link href="//fonts.googleapis.com/earlyaccess/NanumSquareRound.min.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/NanumSquareRound.min.css" rel="stylesheet" type="text/css" />
 ```
 CSS:
 ```css
@@ -56,12 +56,12 @@ CSS:
 ### 배민 한나체 Pro
 HTML:
 ```html
-<link href="https://cdn.jsdelivr.net/gh/buppagi/webfonts/css/BMHANNAPro.min.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/BMHANNAPro.min.css" rel="stylesheet" type="text/css" />
 ```
 ### 배민 한나체 Air
 HTML:
 ```html
-<link href="https://cdn.jsdelivr.net/gh/buppagi/webfonts/css/BMHANNAAir.min.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/BMHANNAAir.min.css" rel="stylesheet" type="text/css" />
 ```
 
 ## 웹폰트 모두 사용하기
@@ -69,13 +69,13 @@ HTML:
 
 HTML:
 ```html
-<link href="https://cdn.jsdelivr.net/gh/buppagi/webfonts/css/styles.min.css" rel="stylesheet" type="text/css" />
+<link href="https://raw.githubusercontent.com/buppagi/webfonts/master/css/styles.min.css" rel="stylesheet" type="text/css" />
 ```
 
 **@import 사용**
 CSS파일 및 ``<head>``안의 스타일 시트에 아래 코드를 넣으면 됩니다.
 ```css
-@import url('https://cdn.jsdelivr.net/gh/buppagi/webfonts/css/style.min.css');
+@import url('https://raw.githubusercontent.com/buppagi/webfonts/master/css/style.min.css');
 
 /* 폰트를 적용하려면 폰트 이름을 적용하길 원하는 CSS에 다음과 같이 추가하면 됩니다. */
 .font{font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif;}
