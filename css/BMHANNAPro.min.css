@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /*!
  * webfonts - 무료 한글 폰트를 웹폰트로 사용하기
- * @link 				https://buppagi.com
  * BMHANNAPro.css
+ * @link       https://buppagi.com
+ * @repository https://github.com/buppagi/webfonts
  */
 @font-face{font-family:"BMHANNAPro";font-style:normal;font-weight:normal;src:local("BMHANNAPro"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.eot"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.eot?#iefix") format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.woff2") format("woff2"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.woff") format("woff"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.svg#BMHANNAPro") format("svg"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/BMHANNAPro.ttf") format("truetype")}

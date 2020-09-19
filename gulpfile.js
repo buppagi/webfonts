@@ -57,8 +57,9 @@ task('styles', () => {
       '@charset "UTF-8";',
       '/*!',
       ' * <%= name %> - <%= description %>',
-      ' * @link 				<%= homepage %>',
       ' * ${filename}',
+      ' * @link       <%= homepage %>',
+      ' * @repository <%= repository.url %>',
       ' */\n',
     ].join('\n'), pkg))
     .pipe(rename({suffix: '.min'}))

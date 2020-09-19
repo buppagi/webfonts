@@ -44,6 +44,10 @@
   "author": "buppagi",
   "email": "buppagi@meilcoding.com",
   "homepage": "https://buppagi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buppagi/webfonts"
+  },
   "license": "ISC",
   "dependencies": {}
 }

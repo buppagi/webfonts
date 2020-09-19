@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /*!
  * webfonts - 무료 한글 폰트를 웹폰트로 사용하기
- * @link 				https://buppagi.com
  * NanumBarunGothic.css
+ * @link       https://buppagi.com
+ * @repository https://github.com/buppagi/webfonts
  */
 @font-face{font-family:"NanumBarunGothic";font-style:normal;font-weight:400;src:local("NanumBarunGothic"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.eot"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.eot?#iefix") format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.woff2") format("woff2"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.woff") format("woff"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.ttf") format("truetype")}@font-face{font-family:"NanumBarunGothic";font-style:normal;font-weight:700;src:local("NanumBarunGothic"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.eot"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.eot?#iefix") format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.woff") format("woff"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.svg#NanumBarunGothic") format("svg"),url("https://cdn.jsdelivr.net/gh/buppagi/webfonts/fonts/NanumBarunGothic.ttf") format("truetype")}
