@@ -36,6 +36,7 @@
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.1",
     "lodash": "^4.17.20",
+    "lodash.template": "^4.5.0",
     "log-symbols": "^4.0.0",
     "mem": "^6.1.1",
     "moment": "^2.28.0",
